@@ -1,0 +1,3 @@
+access_key = "AKIAU2ECMEZCJA7IAES3"
+  secret_key = "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"
+  region     = "eu-north-1"
